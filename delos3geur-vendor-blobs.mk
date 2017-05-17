@@ -195,7 +195,6 @@ PRODUCT_COPY_FILES +=   vendor/samsung/delos3geur/proprietary/lib/lib_SamsungRec
 PRODUCT_COPY_FILES +=   vendor/samsung/delos3geur/proprietary/lib/lib_Samsung_Resampler.so:system/lib/lib_Samsung_Resampler.so
 PRODUCT_COPY_FILES +=   vendor/samsung/delos3geur/proprietary/lib/lib_Samsung_SB_AM_for_ICS_v03008.so:system/lib/lib_Samsung_SB_AM_for_ICS_v03008.so
 PRODUCT_COPY_FILES +=   vendor/samsung/delos3geur/proprietary/lib/libsamsungSoundbooster.so:system/lib/libsamsungSoundbooster.so
-PRODUCT_COPY_FILES +=   vendor/samsung/delos3geur/proprietary/lib/hw/lights.msm7x27a.so:system/lib/hw/lights.msm7x27a.so
 PRODUCT_COPY_FILES +=   vendor/samsung/delos3geur/proprietary/etc/thermald.conf:system/etc/thermald.conf
 PRODUCT_COPY_FILES +=   vendor/samsung/delos3geur/proprietary/bin/thermald:system/bin/thermald
 PRODUCT_COPY_FILES +=   vendor/samsung/delos3geur/proprietary/lib/libthermalclient.so:system/lib/libthermalclient.so
